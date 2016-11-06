@@ -1,8 +1,12 @@
 # MessengerPattern
 Improved from answer of Dalstroem in stackOverflow!
+
 The question: http://stackoverflow.com/questions/23798425/wpf-mvvm-communication-between-view-model
+
 Dalstroem profile: http://stackoverflow.com/users/3683189/dalstroem
+
 My profile: http://stackoverflow.com/users/4871837/yeah69
+
 Improvement: I made the the MessageKey sensitive to the message type. Thus, several different message types with no context object can be registered to the same receiver object.
 
 Problem:
